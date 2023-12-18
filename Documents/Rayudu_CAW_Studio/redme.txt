@@ -1,0 +1,3 @@
+Step1: Install all node modules by using the "npm install",
+Step2: Install cypress 9.7.0 using this command "npm install cypress@9.7.0"
+Step2 : Executive the script using "npx cypress open"

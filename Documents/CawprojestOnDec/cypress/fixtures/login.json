@@ -1,0 +1,35 @@
+{
+    "Product A": {
+      "description": "Sauce Labs Backpack",
+      "prise": "$29.99"
+      
+    },
+    "Product b": {
+        "description": "Sauce Labs Bike Light",
+        "prise": "9.99"
+        
+      },
+      "Product c": {
+        "description": "Sauce Labs Bolt T-Shirt",
+        "prise": "$15.99"
+        
+      },
+      "Product d": {
+        "description": "Sauce Labs Fleece Jacket",
+        "prise": "$49.99"
+        
+      },
+      "Product e": {
+        "description": "Sauce Labs Onesie",
+        "prise": "$7.99"
+        
+      },
+      "Product f": {
+        "description": "Test.allTheThings() T-Shirt (Red)",
+        "prise": "15.99"
+        
+      }
+    
+   
+  }
+  
